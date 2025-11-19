@@ -250,6 +250,7 @@ onMounted(() => {
     </section>
   </PortfolioLayout>
 </template>
+<!--
                         <li
                             class="relative flex items-center gap-4 py-2 before:absolute before:top-1/2 before:bottom-0 before:left-[0.4rem] before:border-l before:border-[#e3e3e0] dark:before:border-[#3E3E3A]"
                         >
@@ -1026,4 +1027,4 @@ onMounted(() => {
         </div>
         <div class="hidden h-14.5 lg:block"></div>
     </div>
-</template>
+</template> -->
