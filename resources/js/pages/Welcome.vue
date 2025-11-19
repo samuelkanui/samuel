@@ -146,7 +146,7 @@ onMounted(() => {
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div 
-            v-for="(skill, index) in skills" 
+            v-for="skill in skills" 
             :key="skill.name"
             class="group p-8 bg-background rounded-xl border border-border hover:border-primary/50 transition-all duration-300 hover:shadow-lg hover:-translate-y-1"
           >

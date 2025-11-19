@@ -2,7 +2,7 @@
 import { ref, onMounted } from 'vue';
 import { Head, Link } from '@inertiajs/vue3';
 import PortfolioLayout from '@/layouts/PortfolioLayout.vue';
-import { ArrowRight, Download, Github, ExternalLink, Code, Palette, Zap } from 'lucide-vue-next';
+import { ArrowRight, Download, Github, ExternalLink, Code, Zap } from 'lucide-vue-next';
 
 // Skills organized by category for software engineer
 const skillCategories = [

@@ -2,7 +2,7 @@
 import { ref, computed } from 'vue';
 import { Head } from '@inertiajs/vue3';
 import PortfolioLayout from '@/layouts/PortfolioLayout.vue';
-import { Github, ExternalLink, Filter, Search } from 'lucide-vue-next';
+import { Github, ExternalLink, Search } from 'lucide-vue-next';
 
 const searchQuery = ref('');
 const selectedCategory = ref('all');
